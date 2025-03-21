@@ -1,0 +1,42 @@
+[
+  {
+    "asin": "12345",
+    "title": "Il Signore degli Anelli",
+    "img": "https://picsum.photos/200"
+  },
+  {
+    "asin": "67890",
+    "title": "Harry Potter e la Pietra Filosofale",
+    "img": "https://picsum.photos/200"
+  },
+  {
+    "asin": "11223",
+    "title": "Il codice Da Vinci",
+    "img": "https://picsum.photos/200"
+  },
+  {
+    "asin": "44556",
+    "title": "Lo Hobbit",
+    "img": "https://picsum.photos/200"
+  },
+  {
+    "asin": "77889",
+    "title": "Orgoglio e Pregiudizio",
+    "img": "https://picsum.photos/200"
+  },
+  {
+    "asin": "99100",
+    "title": "1984",
+    "img": "https://picsum.photos/200"
+  },
+  {
+    "asin": "22334",
+    "title": "Il Piccolo Principe",
+    "img": "https://picsum.photos/200"
+  },
+  {
+    "asin": "55667",
+    "title": "Moby Dick",
+    "img": "https://picsum.photos/200"
+  }
+]
